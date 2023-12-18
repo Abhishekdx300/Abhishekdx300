@@ -5,7 +5,7 @@
 ## Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,vscode,git,github,css,tailwind,express,firebase,mongodb,graphql,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,vscode,git,github,css,tailwind,express,mongodb,postgres,go" />
   </a>
 
 <br>
