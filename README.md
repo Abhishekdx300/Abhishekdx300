@@ -25,18 +25,18 @@
 
 <br />
 <br />
-
-<h2>Github Stats</h2>
-<p align="center" style="width:100% display:flex flex-direction:column align-items:center justify-content:center"> 
+<!---
+<h2>Github Stats</h2
+<p align="center" style="width:100% display:flex flex-direction:column align-items:center justify-content:center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekdx300&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekdx300&theme=dark)](https://git.io/streak-stats)
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishekdx300&show_icons=true&locale=en&theme=tokyonight" alt="Abhishekdx300" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishekdx300&show_icons=true&locale=en&theme=tokyonight" alt="Abhishekdx300" />
 </p>
 
 <br />
 <br />
-
+--->
 
 ## Top Languages
 <p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=Abhishekdx300&layout=compact&hide=html&theme=react" alt="Abhishekdx300" /></p> 
