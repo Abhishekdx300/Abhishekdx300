@@ -2,6 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Abhishek.;A+20-year-old+programmer.)](https://git.io/typing-svg)
 
+<!---
 ## Skills:
 
   <a href="https://skillicons.dev">
@@ -19,6 +20,7 @@
 <br />
 <br />
 
+--->
 
 ## Contribution Graph
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishekdx300&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
