@@ -40,5 +40,3 @@
 <br />
 --->
 
-## Top Languages
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=Abhishekdx300&layout=compact&hide=html&theme=react" alt="Abhishekdx300" /></p> 
